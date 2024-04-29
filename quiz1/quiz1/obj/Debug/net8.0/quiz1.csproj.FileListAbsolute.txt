@@ -1,0 +1,14 @@
+E:\Kuliah\Akademik\Semester 6\Pemrograman Desktop\5_29-4-2024\quiz1\quiz1\obj\Debug\net8.0\quiz1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kuliah\Akademik\Semester 6\Pemrograman Desktop\5_29-4-2024\quiz1\quiz1\obj\Debug\net8.0\quiz1.AssemblyInfoInputs.cache
+E:\Kuliah\Akademik\Semester 6\Pemrograman Desktop\5_29-4-2024\quiz1\quiz1\obj\Debug\net8.0\quiz1.AssemblyInfo.cs
+E:\Kuliah\Akademik\Semester 6\Pemrograman Desktop\5_29-4-2024\quiz1\quiz1\obj\Debug\net8.0\quiz1.csproj.CoreCompileInputs.cache
+E:\Kuliah\Akademik\Semester 6\Pemrograman Desktop\5_29-4-2024\quiz1\quiz1\bin\Debug\net8.0\quiz1.exe
+E:\Kuliah\Akademik\Semester 6\Pemrograman Desktop\5_29-4-2024\quiz1\quiz1\bin\Debug\net8.0\quiz1.deps.json
+E:\Kuliah\Akademik\Semester 6\Pemrograman Desktop\5_29-4-2024\quiz1\quiz1\bin\Debug\net8.0\quiz1.runtimeconfig.json
+E:\Kuliah\Akademik\Semester 6\Pemrograman Desktop\5_29-4-2024\quiz1\quiz1\bin\Debug\net8.0\quiz1.dll
+E:\Kuliah\Akademik\Semester 6\Pemrograman Desktop\5_29-4-2024\quiz1\quiz1\bin\Debug\net8.0\quiz1.pdb
+E:\Kuliah\Akademik\Semester 6\Pemrograman Desktop\5_29-4-2024\quiz1\quiz1\obj\Debug\net8.0\quiz1.dll
+E:\Kuliah\Akademik\Semester 6\Pemrograman Desktop\5_29-4-2024\quiz1\quiz1\obj\Debug\net8.0\refint\quiz1.dll
+E:\Kuliah\Akademik\Semester 6\Pemrograman Desktop\5_29-4-2024\quiz1\quiz1\obj\Debug\net8.0\quiz1.pdb
+E:\Kuliah\Akademik\Semester 6\Pemrograman Desktop\5_29-4-2024\quiz1\quiz1\obj\Debug\net8.0\quiz1.genruntimeconfig.cache
+E:\Kuliah\Akademik\Semester 6\Pemrograman Desktop\5_29-4-2024\quiz1\quiz1\obj\Debug\net8.0\ref\quiz1.dll
