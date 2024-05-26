@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KgI5nDIvHzaRssHKwubDqxvcgkxg4+3MWd0ZrDyQSW0CY4vc7Lp1Ms2K4cmq1QU5jlhZWp8H0wtBT7GO2qZNjw==",
+  "success": true,
+  "projectFilePath": "E:\\Kuliah\\Akademik\\Semester 6\\Pemrograman Desktop\\9_22-5-2024\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\siddiq odiq\\.nuget\\packages\\csvhelper\\32.0.3\\csvhelper.32.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
